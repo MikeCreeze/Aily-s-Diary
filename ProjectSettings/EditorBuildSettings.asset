@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 844b37335c3ba97468796c8b5fafe7b1
+  - enabled: 1
+    path: Assets/Scenes/SelectLevel.unity
+    guid: 457b15a0540f6cc44922c349de339458
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Plot CG.unity
+    guid: 5990006fc0a202c47ad823845907ccd7
+  - enabled: 1
+    path: Assets/Scenes/ResultCalculation.unity
+    guid: ec96d22ac2493c945ba9d67bfc34c380
+  - enabled: 1
+    path: Assets/Scenes/NewSelect.unity
+    guid: 32a380d8e88e7494faeeb0a8e1538273
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 9126381871f349a4da5d0e962f2f5991
+  m_configObjects: {}
